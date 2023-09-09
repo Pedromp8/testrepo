@@ -1,0 +1,176 @@
+Color:
+ 
+Used by item unboxe
+Light Blue: 
+Blue: 
+Purple: 
+Pink: 
+Red / knife: 
+ 
+Others:
+White: 
+VERY red: 
+Regular beige chat text: 
+Very green: 
+Light green: 
+Mid green: 
+Darker red: 
+Greenest green: 
+Light purple: 
+Brown gold: 
+ 
+Linebreak:  
+ 
+ 
+ 
+Tutorial type beat:
+ 
+ 
+playerradio X "Hello"
+ 
+ 
+playerradio Guardian.RoundStart "Flashbang Out!"
+ 
+ 
+Radio.Smoke
+Radio.Flashbang
+Guardian.RoundStart
+Guardian.Victory
+Guardian.HalfwayThere
+ 
+ 
+Funny ones:
+ 
+Guardian.Victory
+hydra_guardian_complete_46.wav
+hydra_guardian_complete_18.wav
+hydra_guardian_complete_35.wav
+hydra_guardian_complete_26.wav
+hydra_guardian_complete_22.wav
+ 
+ 
+playerradio Radio.Flashbang "Flashbang Out!"
+ 
+ 
+playerradio Radio.Flashbang "¡Lanzando aturdidora! Tu vieja"
+ 
+ 
+playerradio Radio.Flashbang "¡Lanzando aturdidora! Sisi Tu mama"
+ 
+ 
+playerradio Radio.Flashbang "¡Lanzando aturdidora! conf1g ha abierto un contenedor y ha encontrado:  Glock-18 | Espectros"
+ 
+ 
+playerradio Radio.Smoke "¡Lanzando humo! conf1g ha abierto un contenedor y ha encontrado:  StatTrak™ Glock-18 | Espectros"
+ 
+ 
+playerradio Radio.Smoke "¡Lanzando humo! conf1g ha abierto un contenedor y ha encontrado:  AWP | Sueño Febril"
+ 
+ 
+playerradio Radio.Flashbang "¡Lanzando aturdidora! conf1g ha abierto un contenedor y ha encontrado:  ★ Karambit | Doppler"
+ 
+ 
+ 
+If you want to make it really believable only choose skins from 1 single case and match the knife that you "unbox" accordingly.
+ 
+ 
+ 
+ 
+Some other fun things I've made:
+ 
+Faking someones VAC ban:
+playerradio Radio.Smoke "¡Lanzando humo! conf1g has been permanently banned from official CS:GO servers."
+ 
+Russian flag with curse words:
+playerradio x "  СУКА БЛЯДЬ ДОЛБОЁБ СУКА БЛЯДЬ ДОЛБОЁБ СУКА БЛЯДЬ ДОЛБОЁБ"
+ 
+Faking a vote kick:
+playerradio Radio.Smoke "¡Lanzando humo! Player conf1g left the game (Disconnected)"
+ 
+Switzerland flag (example):
+playerradio x " OOOOOOOO OOOOOOOO OOOOOOOO OOOOOOOO OOOOOOOO"
+ 
+Use of colors:
+playerradio deathcry " Por que hay sangre en mi pis?"
+ 
+Idiot checklist:
+playerradio deathcry " Mogolico check: ☐ Aim ☐ Gamesense ☑ Mogolico"
+ 
+Teammates without aim:
+playerradio Guardian.HalfwayThere " Name con esto apuntas: ✜ Usalo porfa :)
+ 
+Being toxic in COLORS:
+playerradio deathcry " FUCK YOU  IDIOT  TEAM"
+ 
+Annoying kök:
+playerradio Guardian.Victory " ½½½½__½½½½½__½½½½__½___½ ½________½_______½__½________½½____ ½½½½__½½½½½__½½½½__½___½"
+ 
+Using the location:
+playerradio Radio.Roger "Afirmativo. conf1g en La casa de tu vieja (RADIO): Afirmativo."
+ 
+Unicode characters:
+playerradio deathcry " Me voy de VAC-aciones. ⛱"
+ 
+Unicode art:
+playerradio deathcry " _ή _|| Ѡ"
+ 
+Flags:
+ 
+Argentina:
+playerradio x "
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+
+ 
+Poland:
+playerradio x "
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ 
+Sweden:
+playerradio x "
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ 
+Malta:
+playerradio x "
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘✚⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ 
+Russia:
+playerradio x "
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ 
+Soviet flag:
+playerradio x "
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘☭⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ ⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘⛘
+ 
+ 
+ 
+ 
+There are also radio commands which make no sense.
+For example hostage specific radio commands on a bomb map.
+ 
+Radio.CheckHostage
+GuardingHostages
+HostageDown
+ 
+ 
+ 
+ 
+If you want to play around yourself:
+Make https://output.jsbin.com/gilusiw
+Text to hex number converter: http://www.unit-conversion.info/texttools/hexadecimal/
+ASCII Chart with Hex conversions: https://www.eso.org/~ndelmott/ascii.html
